@@ -161,6 +161,6 @@ cython_debug/
 
 # NLW
 **/__pycache__
-
+example.py
 
 
